@@ -1,7 +1,7 @@
-<h1>Hi, I'm Gio! 🖖
-<h2> Below are some collections of my very own projects to showcase my skills as a data enthusiast 📊
+<h1>Hi, I'm Gio! 🖖 
+<h3> Below are a compilation of my very own projects to showcase my skills as a data enthusiast 📊
 
-<h3> Excel Projects 💻 :
+<h2> Excel Projects 💻 :
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
