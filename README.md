@@ -1,22 +1,8 @@
-<h1>Hi, I'm Gio! 🖖 
-<h1> You found my GitHub portfolio!  
-<h3> Here, you'll see a collection of my personal projects showcasing my skills and growth as a data enthusiast. Each project reflects my curiosity in data analysis, visualization, and digital problem-solving 📊.
+# Great! You found my Github portfolio 🥳
+## So, first of all welcome, I'm Gio, a **data enthusiast** 📊
+#### In here you'll see a collection of my personal projects show casing my skills in Excel, SQL, and other data interpretation tools. Each project reflects my curiosity data analysis, visualization, and digital-problem solving.
 
-
-<h2> Excel Projects 💻 :
-<h3></h3> [Customer Sales Analysis]
-
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
-
+ ## Excel Projects
+ #### Projects that explore data cleaning, dashboard creation, and analytics using Microsoft Excel
+- <b> Customer sales analysis [🔗view project details](https://github.com/giomusyaffa/Excel)
+ 
