@@ -1,10 +1,10 @@
 <h1>Hi, I'm Gio! 🖖 
-<h1> Welcome to my GitHub portfolio!  
-<h3> Here, you'll find a collection of my personal projects showcasing my skills and growth as a data enthusiast. Each project reflects my curiosity in data analysis, visualization, and digital problem-solving 📊.
+<h1> You found my GitHub portfolio!  
+<h3> Here, you'll see a collection of my personal projects showcasing my skills and growth as a data enthusiast. Each project reflects my curiosity in data analysis, visualization, and digital problem-solving 📊.
 
 
 <h2> Excel Projects 💻 :
-<h3></h3> Customer Sales Analysis 
+<h3></h3> [Customer Sales Analysis]
 
 
 <h2> 🤳 Connect with me:</h2>
