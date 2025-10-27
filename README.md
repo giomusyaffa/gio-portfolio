@@ -1,5 +1,7 @@
 <h1>Hi, I'm Gio! 🖖 
-<h3> Below are a compilation of my very own projects to showcase my skills as a data enthusiast 📊
+<h2> Welcome to my GitHub portfolio!  
+<h3> Here, you'll find a collection of my personal projects showcasing my skills and growth as a **data enthusiast** Each project reflects my curiosity in data analysis, visualization, and digital problem-solving 📊.
+
 
 <h2> Excel Projects 💻 :
 
