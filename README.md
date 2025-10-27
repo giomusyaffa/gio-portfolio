@@ -1,12 +1,11 @@
 <h1>Hi, I'm Gio! 🖖 
-<h2> Welcome to my GitHub portfolio!  
-<h3> Here, you'll find a collection of my personal projects showcasing my skills and growth as a data enthusiast Each project reflects my curiosity in data analysis, visualization, and digital problem-solving 📊.
+<h1> Welcome to my GitHub portfolio!  
+<h3> Here, you'll find a collection of my personal projects showcasing my skills and growth as a data enthusiast. Each project reflects my curiosity in data analysis, visualization, and digital problem-solving 📊.
 
 
 <h2> Excel Projects 💻 :
-
 - <b>Customer Sales Analysis </b>
-  - [Customer Sales Analysis](https://github.com/giomusyaffa/Excel)
+  - [View project details](https://github.com/giomusyaffa/Excel)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
