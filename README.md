@@ -4,5 +4,5 @@
 
  ## Excel Projects
  #### Projects that explore data cleaning, dashboard creation, and analytics using Microsoft Excel
-- <b> Customer sales analysis [🔗view project details](https://github.com/giomusyaffa/Excel)
+- [🔗View project details](https://github.com/giomusyaffa/Excel/blob/ae9b9d71b12ed0bf88e3c0514c45c1b536545794/READMEMain.md)
  
