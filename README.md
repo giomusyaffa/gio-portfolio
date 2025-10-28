@@ -18,5 +18,6 @@ I’m passionate about exploring how data tells stories and supports better deci
  - **Python** (**Coming Soon...**)
 
 ### How to reach me 📱:
-- [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30">]((https://www.linkedin.com/in/dhiamukarob/))
+- [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30">](https://www.linkedin.com/in/dhiamukarob/)
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" width="30">](religio.musyaffa@gmail.com)
+
