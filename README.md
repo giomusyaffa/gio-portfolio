@@ -11,8 +11,12 @@ I’m passionate about exploring how data tells stories and supports better deci
 - Machine learning fundamentals
   
 ### Featured Projects 🏗️:
- - Microsoft Excel:
+  - **Excel**:
  Projects that explore **data cleaning**, **dashboard creation**, and **advanced formulas** using Microsoft Excel to find key trends and patterns.
  [🔗View repository](https://github.com/giomusyaffa/Excel/blob/ae9b9d71b12ed0bf88e3c0514c45c1b536545794/READMEMain.md)
- - SQL (**Coming Soon...**)
- - Python (**Coming Soon...**)
+ - **SQL** (**Coming Soon...**)
+ - **Python** (**Coming Soon...**)
+
+### How to reach me 📱:
+- [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30">]((https://www.linkedin.com/in/dhiamukarob/))
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" width="30">](religio.musyaffa@gmail.com)
