@@ -4,7 +4,7 @@ Here you'll see a collection of my personal projects show casing my skills in **
 ### About me 🧠
 I’m passionate about exploring how data tells stories and supports better decision-making. My interests span across analytics, automation, and visualization, transforming raw data into actionable insights through structured, data-driven analysis.
 
-**Key Interests🤔 :**
+### **Key Interests🤔 :**
 - Data analytics & visualization  
 - Business intelligence  
 - Process automation  
