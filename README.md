@@ -13,7 +13,7 @@ I’m passionate about exploring how data tells stories and supports better deci
 ### Featured Projects 🏗️:
   - **Excel**:
  Projects that explore **data cleaning**, **dashboard creation**, and **advanced formulas** using Microsoft Excel to find key trends and patterns.
- [🔗View repository](https://github.com/giomusyaffa/Excel/blob/50055b7d028cc5df6ac022c11d2f1939ba8a5c0e/READMEMain.md)
+ [🔗View repository](https://github.com/giomusyaffa/Excel/blob/main/READMEMain.md)
  - **SQL** (**Coming Soon...**)
  - **Python** (**Coming Soon...**)
 
