@@ -1,8 +1,10 @@
 # Great! You found my Github portfolio 🥳
-### So, first of all welcome, I'm Gio, a **Data Enthusiast** 📊
-Here you'll see a collection of my personal projects show casing my skills in **Excel**, **SQL**, and **Python**. Each repository explores how I use data to uncover insights, solve problems, and build analytical solutions.
+### So, first of all, welcome, I'm Gio, a **Data Enthusiast** 📊
+In this page, you'll see a collection of my personal projects show casing my skills in **Excel**, **SQL**, **Python** for analyzing data and **Power BI** to visualize them. Each repository explores how I use data to uncover insights, solve problems, and build analytical solutions.
+
 ### About me 🧠
-I’m passionate about exploring how data tells stories and supports better decision-making. My interests span across analytics, automation, and visualization, transforming raw data into actionable insights through structured, data-driven analysis.
+As an aspiring data analyst with a Bachelor's degree in Physics, I’m passionate about exploring how data tells stories and supports better decision-making. That's why I've been developing my skills in programming languages like Python, database query languages like SQL, business intelligence platforms such as  Power BI, and spreadsheet software like Microsoft Excel.
+
 
 ### **Key Interests🤔 :**
 - Data analytics & visualization  
@@ -10,12 +12,12 @@ I’m passionate about exploring how data tells stories and supports better deci
 - Process automation  
 - Machine learning fundamentals
   
-### Featured Projects 🏗️:
-  - **Excel**:
+### Featured Projects 📂:
+  - **Excel** and **Power BI**:
  Projects that explore **data cleaning**, **dashboard creation**, and **advanced formulas** using Microsoft Excel to find key trends and patterns.
  [🔗View repository](https://github.com/giomusyaffa/Excel/blob/main/READMEMain.md)
- - **SQL** (**Coming Soon...**)
- - **Python** (**Coming Soon...**)
+ - **SQL** (**Coming Soon... 🚧**)
+ - **Python** (**Coming Soon... 🚧**)
 
 ### How to reach me 📱:
 - [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30">](https://www.linkedin.com/in/dhiamukarob/)
