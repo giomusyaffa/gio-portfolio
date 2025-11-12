@@ -1,5 +1,5 @@
-# Congratulation! You found my Github portfolio 🥳
-### So, first of all, welcome, I'm Gio, a **Data Enthusiast** 📊
+# Congratulations! You've found my Github portfolio 🥳
+### Welcome, I'm Gio, a **Data Enthusiast** 📊
 In this page, you'll see a collection of my personal projects show casing my skills in **Excel**, **SQL**, **Python** for analyzing data and **Power BI** to visualize them. 
 
 Each repository explores how I use data to uncover insights, solve problems, and build analytical solutions.
