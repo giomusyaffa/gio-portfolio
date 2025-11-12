@@ -22,7 +22,7 @@ As an aspiring data analyst with a Bachelor's degree in Physics, I’m passionat
  [🔗View repository](https://github.com/giomusyaffa/Excel/blob/main/READMEMain.md)
  - **SQL**
 Using Structured Query Language (SQL), I explore datasets sourced from Kaggle and aims to showcase how SQL can be used to clean, transform, and analyze data effectively.
- [🔗View repository](https://github.com/giomusyaffa/SQL/blob/main/READMEmain.md)
+ [🔗View repository](https://github.com/giomusyaffa/SQL/blob/main/README.md)
 
 
 
