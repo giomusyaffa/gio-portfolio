@@ -16,8 +16,8 @@ As an aspiring data analyst with a Bachelor's degree in Physics, I’m passionat
   - **Excel** and **Power BI**:
  Projects that explore **data cleaning**, **dashboard creation**, and **advanced formulas** using Microsoft Excel to find key trends and patterns.
  [🔗View repository](https://github.com/giomusyaffa/Excel/blob/main/READMEMain.md)
- - **SQL** (**Coming Soon... 🚧**)
- - **Python** (**Coming Soon... 🚧**)
+ - **SQL**
+
 
 ### How to reach me 📱:
 - [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30">](https://www.linkedin.com/in/dhiamukarob/)
