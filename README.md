@@ -1,5 +1,6 @@
-# Thank You, for clicking the link! 😃
-### Welcome! I'm Gio, I Love All Things Data 📊
+# Welcome to my Github Portfolio! 
+I'm Gio, I love all things data 📊
+
 In this page, you'll see a collection of my personal projects show casing my skills in **Excel**, **SQL**, **Python** for analyzing data and **Power BI** to visualize them. 
 
 Each repository explores how I use data to uncover insights, solve problems, and build analytical solutions.
